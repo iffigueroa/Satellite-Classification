@@ -12,7 +12,7 @@ For this project the 5-1-2023 version of the database was used.
 The project includes Jupyter notebooks for data cleaning and modeling. These notebooks can be run locally after installing Jupyter or using Google Colab, each notebook should have a link to open in Colab. 
 
 1. **Data Cleaning Notebook**: This notebook preprocesses the dataset, handling missing values, encoding categorical variables, and performing feature scaling to prepare the data for modeling. Please run this first, as it produces a clean dataset for model building.
-2. **Supervised Learning Notebook**: This notebook explores the use of KNN (K-Nearest Neighbors) and Decision Trees for satellite classification. It includes data splitting, model training, evaluation, and hyperparameter tuning.
-3. **Unsupervised Learning Notebook**: This notebook investigates the use of KMEANS and DBSCAN clustering algorithms for satellite classification. It includes clustering, cluster visualization, and evaluation.
+2. **Supervised Learning Notebook**: This notebook explores the use of KNN (K-Nearest Neighbors) and Decision Trees for satellite classification.
+3. **Unsupervised Learning Notebook**: This notebook investigates the use of KMEANS and DBSCAN clustering algorithms for satellite classification.
 
 
